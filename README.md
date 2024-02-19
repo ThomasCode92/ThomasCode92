@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Self-taught Web Developer 🚀 Passionate about crafting innovative solutions. Dedicated to building side projects and mastering full-stack development 💻. Constantly exploring new technologies to enhance skills and deliver impactful digital experiences 🌟.
+Self-taught Web Developer 🚀 Passionate about coding innovative solutions. Building some projects and mastering full-stack development 💻. Constantly exploring new technologies to enhance skills 🌟.
 
 <!--
 **ThomasCode92/ThomasCode92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
